@@ -7,7 +7,7 @@
   \key c \minor
   \time 2/4
   c8\mf c g' g
-  a a <g d>4
+  as as <g d>4
   f8 f e e
   d d <c g>4
 }
