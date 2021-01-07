@@ -4,6 +4,7 @@
 }
 
 \relative c' {
+  \key c \minor
   \time 2/4
   c8\mf c g' g
   a a <g d>4
